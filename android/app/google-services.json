@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "569402808430",
+    "project_id": "vidtiktoks",
+    "storage_bucket": "vidtiktoks.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569402808430:android:03fcfe6a32b9b6bb436e7f",
+        "android_client_info": {
+          "package_name": "com.example.vidtiktoks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "569402808430-n88flfbnvb8u7aj4hgoeqafafcdgtg3i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vidtiktoks",
+            "certificate_hash": "2cae34e92f8769deb40f832e3b8022ca84df51e5"
+          }
+        },
+        {
+          "client_id": "569402808430-6bdt82pp59ke8d4pu6jc66injcdv1r4u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCV3H1zC5NYUXasc__9PRB9NYs8dBIYJY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "569402808430-6bdt82pp59ke8d4pu6jc66injcdv1r4u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
