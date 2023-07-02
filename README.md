@@ -1,9 +1,6 @@
 # VidTikTok Application Login SignUp Like share video with Firebase
 
 
-![screenshot-1688275339688](https://github.com/tarunchauhan97/vidtiktok/assets/30916033/a6962435-dd70-4744-9891-2574ce94b12d)
-
-![screenshot-1688275352822](https://github.com/tarunchauhan97/vidtiktok/assets/30916033/da04e8cd-746a-4f3b-bb95-25dc2fa590f5)
 
 ## 📱 Screenshots
 |                                                     Login Auth Screen                                                      |                                                   Sign Up User                                                   |
