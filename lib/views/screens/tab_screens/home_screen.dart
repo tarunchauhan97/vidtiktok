@@ -23,7 +23,7 @@ class _HomeScreenState extends State<HomeScreen> {
         },
         type: BottomNavigationBarType.fixed,
         backgroundColor: backgroundColor,
-        selectedItemColor: Colors.brown,
+        selectedItemColor: Colors.deepOrange,
         unselectedItemColor: Colors.white,
         currentIndex: pageIdx,
         items: const [
