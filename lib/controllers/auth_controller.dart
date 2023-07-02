@@ -17,7 +17,6 @@ class AuthController extends GetxController {
   File? get profilePhoto => _pickedImage.value;
   User get user => _user.value!;
 
-
   @override
   void onReady() {
     super.onReady();
@@ -25,7 +24,6 @@ class AuthController extends GetxController {
     _user.bindStream(firebaseAuth.authStateChanges());
     ever(_user, _setInitialScreen);
   }
-
 
 
   _setInitialScreen(User? user) {
