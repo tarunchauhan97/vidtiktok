@@ -1,11 +1,14 @@
 # VidTikTok Application Login SignUp Like share video with Firebase
 
 
+![screenshot-1688275339688](https://github.com/tarunchauhan97/vidtiktok/assets/30916033/a6962435-dd70-4744-9891-2574ce94b12d)
+
+![screenshot-1688275352822](https://github.com/tarunchauhan97/vidtiktok/assets/30916033/da04e8cd-746a-4f3b-bb95-25dc2fa590f5)
 
 ## 📱 Screenshots
 |                                                     Login Auth Screen                                                      |                                                   Sign Up User                                                   |
 |:----------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------:|
-| <img width alt="Screen Shot 2020-09-17 at 3 26 13 PM" src="https://github.com/tarunchauhan97/vidtiktok/assets/30916033/1bfdad7f-3c8b-4596-b4d2-191bbf205506">|<img alt="Screen Shot 2020-09-17 at 3 35 48 PM" src="https://github.com/tarunchauhan97/vidtiktok/assets/30916033/6760f47e-eebf-405e-8c33-c2b629839a9d">|
+| <img width alt="Screen Shot 2020-09-17 at 3 26 13 PM" src="https://github.com/tarunchauhan97/vidtiktok/assets/30916033/a6962435-dd70-4744-9891-2574ce94b12d">|<img alt="Screen Shot 2020-09-17 at 3 35 48 PM" src="https://github.com/tarunchauhan97/vidtiktok/assets/30916033/da04e8cd-746a-4f3b-bb95-25dc2fa590f5">|
 
 
 
