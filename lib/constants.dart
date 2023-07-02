@@ -3,10 +3,10 @@ import 'package:firebase_auth/firebase_auth.dart';
 import 'package:firebase_storage/firebase_storage.dart';
 import 'package:flutter/material.dart';
 import 'package:vidtiktoks/controllers/auth_controller.dart';
-import 'package:vidtiktoks/views/screens/add_video_screen.dart';
-import 'package:vidtiktoks/views/screens/profile_screen.dart';
-import 'package:vidtiktoks/views/screens/search_screen.dart';
-import 'package:vidtiktoks/views/screens/video_screen.dart';
+import 'package:vidtiktoks/views/screens/tab_screens/add_video_screen.dart';
+import 'package:vidtiktoks/views/screens/tab_screens/profile_screen.dart';
+import 'package:vidtiktoks/views/screens/tab_screens/search_screen.dart';
+import 'package:vidtiktoks/views/screens/tab_screens/video_screen.dart';
 
 List pages = [
   VideoScreen(),
@@ -18,8 +18,8 @@ List pages = [
 
 // COLORS
 const backgroundColor = Colors.black;
-var buttonColor = Colors.red[400];
-const borderColor = Colors.grey;
+var buttonColor = Colors.blueAccent;
+const borderColor = Colors.black12;
 
 // FIREBASE
 var firebaseAuth = FirebaseAuth.instance;

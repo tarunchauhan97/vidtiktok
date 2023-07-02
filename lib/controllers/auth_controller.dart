@@ -6,7 +6,8 @@ import 'package:image_picker/image_picker.dart';
 import 'package:vidtiktoks/constants.dart';
 import 'package:vidtiktoks/models/user.dart' as model;
 import 'package:vidtiktoks/views/screens/auth/login_screen.dart';
-import 'package:vidtiktoks/views/screens/home_screen.dart';
+
+import '../views/screens/tab_screens/home_screen.dart';
 
 class AuthController extends GetxController {
   static AuthController instance = Get.find();

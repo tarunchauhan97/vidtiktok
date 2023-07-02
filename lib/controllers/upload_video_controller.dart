@@ -7,7 +7,8 @@ import 'package:get/get.dart';
 import 'package:vidtiktoks/constants.dart';
 import 'package:vidtiktoks/models/video.dart';
 import 'package:video_compress/video_compress.dart';
-import 'package:vidtiktoks/views/screens/home_screen.dart';
+
+import '../views/screens/tab_screens/home_screen.dart';
 
 class UploadVideoController extends GetxController {
   _compressVideo(String videoPath) async {

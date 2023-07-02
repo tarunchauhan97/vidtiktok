@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:vidtiktoks/controllers/search_controller.dart';
 import 'package:get/get.dart';
 import 'package:vidtiktoks/models/user.dart';
-import 'package:vidtiktoks/views/screens/profile_screen.dart';
+import 'package:vidtiktoks/views/screens/tab_screens/profile_screen.dart';
 
 class SearchScreen extends StatelessWidget {
   SearchScreen({Key? key}) : super(key: key);
@@ -14,7 +14,7 @@ class SearchScreen extends StatelessWidget {
     return Obx(() {
       return Scaffold(
         appBar: AppBar(
-          backgroundColor: Colors.red,
+          backgroundColor: Colors.deepOrange,
           title: TextFormField(
             decoration: const InputDecoration(
               filled: false,

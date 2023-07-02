@@ -3,7 +3,7 @@ import 'dart:io';
 import 'package:flutter/material.dart';
 import 'package:image_picker/image_picker.dart';
 import 'package:vidtiktoks/constants.dart';
-import 'package:vidtiktoks/views/screens/confirm_screen.dart';
+import 'package:vidtiktoks/views/screens/tab_screens/confirm_screen.dart';
 
 class AddVideoScreen extends StatelessWidget {
   const AddVideoScreen({Key? key}) : super(key: key);
